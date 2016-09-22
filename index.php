@@ -1,8 +1,1 @@
-<?php
-
-echo "This is a test page";
-echo "An update";
-
-
-?>
-
+<h2>Hello World!</h2>
